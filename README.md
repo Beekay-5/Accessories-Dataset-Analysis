@@ -61,6 +61,6 @@ This projects analyses an accessories dataset
 ---
 ## Dashboard Previews
 1. [Excel Dashboard](https://ibb.co/zVjKmP8S)
-2. [Power BI Dashboards]()
+2. [Power BI Dashboards](https://ibb.co/SDvJ2pty)
 ---
 
